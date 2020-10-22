@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+}
+
+li {
+  padding:10px;
+}
+h1 {
+    color: yellowgreen;
+}
